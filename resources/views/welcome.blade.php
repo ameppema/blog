@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel 2019
+                    Hola Laravel 2019
                 </div>
 
                 <div class="links">
